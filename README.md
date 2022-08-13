@@ -1,3 +1,7 @@
+# DERZEIT PAUSIERT!
+Da die Übersetzungen anscheinend generell nicht richtig Funktionieren, habe ich diese Übersetzung erstmal stillgelegt.
+Ich hoffe das die Entwickler das demnächst fixen werden.
+
 # plc-german-translation
 Pulsar: Lost Colonie German Translation
 
