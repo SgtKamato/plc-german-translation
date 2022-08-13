@@ -2,8 +2,7 @@
 Da die Übersetzungen anscheinend generell nicht richtig Funktionieren, habe ich diese Übersetzung erstmal stillgelegt.
 Ich hoffe das die Entwickler das demnächst fixen werden.
 
-# plc-german-translation
-Pulsar: Lost Colonie German Translation
+# Pulsar: Lost Colonie German Translation
 
 Ich möchte gerne Pulsar: Lost Colonie in Deutsch übersetzen, da die Übersetzungen im Workshop leider nicht mehr Funktionieren. Ich hoffe dabei auf Unterstützung von anderen da es sehr viel Text ist.
 
